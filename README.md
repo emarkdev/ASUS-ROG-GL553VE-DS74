@@ -1,5 +1,5 @@
-# [ICECAT] Hackintoshing Monterey on ASUS ROG GL553VE-DS74
-SN: J1N0CV07D87202E
+# [ICECAT] Hackintoshing Ventura on ASUS ROG GL553VE-DS74
+SN: J1N0CV07D87202E<br/>
 BIOS version: 308
 
 ## 0. Specs
