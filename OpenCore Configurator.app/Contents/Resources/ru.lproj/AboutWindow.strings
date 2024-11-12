@@ -1,15 +1,3 @@
-
-/* Class = "NSWindow"; title = "About OpenCore Configurator"; ObjectID = "1"; */
-"1.title" = "Об OpenCore Configurator";
-
-/* Class = "NSButtonCell"; title = "Changelog"; ObjectID = "EZg-E1-74c"; */
-"EZg-E1-74c.title" = "Лист изменений";
-
-/* Class = "NSButtonCell"; title = "Credits"; ObjectID = "KQq-q8-zAO"; */
-"KQq-q8-zAO.title" = "Список создателей";
-
-/* Class = "NSButtonCell"; title = "Donate"; ObjectID = "Wky-VX-jr0"; */
-"Wky-VX-jr0.title" = "Поддержать";
-
-/* Class = "NSButtonCell"; title = "Website"; ObjectID = "eyI-Cm-PGX"; */
-"eyI-Cm-PGX.title" = "Веб-сайт";
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ebf95e4cb01d0d4957cc24584cda307ffd49a3839933380ffde4567ce58ecf9
+size 620

@@ -1,18 +1,3 @@
-
-/* Class = "NSWindow"; title = "Boot.log"; ObjectID = "QvC-M9-y7g"; */
-"QvC-M9-y7g.title" = "Boot.log";
-
-/* Class = "NSButtonCell"; title = "Copy to Clipboard"; ObjectID = "Tq6-rl-9sc"; */
-"Tq6-rl-9sc.title" = "复制到剪贴板";
-
-/* Class = "NSTextFieldCell"; title = "Search (⌘F)"; ObjectID = "jAZ-Ir-LHD"; */
-"jAZ-Ir-LHD.title" = "搜索（⌘F）";
-
-/* Class = "NSBox"; title = "Bdmesg"; ObjectID = "mBA-VI-TPQ"; */
-"mBA-VI-TPQ.title" = "Bdmesg";
-
-/* Class = "NSButtonCell"; title = "Save boot.log to desktop"; ObjectID = "wSe-to-GTI"; */
-"wSe-to-GTI.title" = "将boot.log保存到桌面";
-
-/* Class = "NSButtonCell"; title = "Generate log"; ObjectID = "wxt-kM-Dys"; */
-"wxt-kM-Dys.title" = "生成日志";
+version https://git-lfs.github.com/spec/v1
+oid sha256:26856d81ee3ce57a9c61d3974746819f8eb60670ba625a444e4535c93054d2dd
+size 716
